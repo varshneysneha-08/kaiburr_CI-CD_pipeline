@@ -103,4 +103,5 @@ CMD ["npm", "run", "preview"]
 ---
 
 ## 📦 Output
-![image](https://github.com/user-attachments/assets/08c07acd-8854-4ebd-b9d4-18fd43b29ebc)
+![image](https://github.com/user-attachments/assets/5c65901f-5e8a-45d0-8b88-ec4ea45316f5)
+
