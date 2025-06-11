@@ -1,4 +1,4 @@
-# Kaiburr Task 4 : CI/CD Pipeline
+![image](https://github.com/user-attachments/assets/1175f08f-2eaf-499a-9d46-c2c002b8bc18)# Kaiburr Task 4 : CI/CD Pipeline
 
 This README gives a complete detail on the *CI/CD pipeline* setup using *GitHub Actions* for the frontend application of the Task. The pipeline includes:
 
@@ -103,4 +103,4 @@ CMD ["npm", "run", "preview"]
 ---
 
 ## 📦 Output
-paste image here
+![image](https://github.com/user-attachments/assets/08c07acd-8854-4ebd-b9d4-18fd43b29ebc)
